@@ -17,7 +17,7 @@ body{
 }
 header{
     background: var(--dark);
-    clip-path: polygon(0 0,100% 0,100% 100%,70% 85%,0 100%);
+    clip-path: polygon(0 0,100% 0,100% 100%,65% 80%,0 100%);
 }
 .container{
     max-width: 1152px;
